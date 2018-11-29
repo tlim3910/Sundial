@@ -1,2 +1,2 @@
 #### Future changes:
-create a GUI interface.
+create more GUI interfaces.
